@@ -1,0 +1,1 @@
+[![Simple Pipe](https://github.com/gmcmahanFnba/greetings-actions/actions/workflows/simple-pipe.yml/badge.svg?branch=gmcmahanFnba-patch-1)](https://github.com/gmcmahanFnba/greetings-actions/actions/workflows/simple-pipe.yml)
